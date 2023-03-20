@@ -91,7 +91,7 @@ export default function Home() {
       </Head>
       <div className={styles.topnav}>
         <div className={styles.navlogo}>
-          <a href="/">TotoB12 Gen 2</a>
+          <a href="https://totob12.github.io/ai-gen">TotoB12 Gen 2</a>
         </div>
         <div className={styles.navlinks}>
           <a href="https://totob12.github.io/ai-gen-1" target="_blank">TotoB12 Gen 1</a>
